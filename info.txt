@@ -1,0 +1,5 @@
+Question:how to close git commit editor
+Ans--After writing commit message, just press Esc Button and then write :wq or :wq! 
+and then Enter to close the unix file. You can also add the commit message from the command line. 
+and the editor will not be opened in the first place.
+===============================================================================================
